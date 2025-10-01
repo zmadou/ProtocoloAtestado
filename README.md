@@ -125,4 +125,4 @@ python formulario.py --sigla MMD --ano 2025 --cpf-len 11 --id-len 10 --oferta-le
 ---
 
 ## 📄 Licença
-Este projeto é de uso interno. Ajuste conforme necessário para o seu fluxo no Senac.
+Este projeto é de uso interno. Ajuste conforme necessário para o seu fluxo.
